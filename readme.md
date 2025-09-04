@@ -125,8 +125,8 @@ python3 pokemon_sscraper.py
 ## Résultats
 
 Le script télécharge et stocke 10 images de Pokemon avec des URLs publiques :
-- `https://pokemon-images-[nom].s3.eu-west-3.amazonaws.com/images/pokemon/001_Bulbasaur.png`
-- `https://pokemon-images-[nom].s3.eu-west-3.amazonaws.com/images/pokemon/002_Ivysaur.png`
+- `https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/001_Bulbasaur.png`
+- `https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/002_Ivysaur.png`
 - Etc.
 
 ## Configuration du script
