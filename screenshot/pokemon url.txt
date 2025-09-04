@@ -1,0 +1,10 @@
+﻿https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/001_Bulbasaur.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/002_Ivysaur.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/003_Venusaur.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/004_Charmander.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/005_Charmeleon.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/006_Charizard.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/007_Squirtle.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/008_Wartortle.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/009_Blastoise.png
+https://pokemon-images-khalil.s3.eu-west-3.amazonaws.com/images/pokemon/010_Caterpie.png
